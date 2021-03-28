@@ -1,4 +1,4 @@
-# Cards-War-Game
+# War (card game)
 Cards War Game in Python / For fun
 
 The deck is divided evenly, with each player receiving 26 cards, dealt one at a time, face down. Anyone may deal first. Each player places his stack of cards face down, in front of him.
